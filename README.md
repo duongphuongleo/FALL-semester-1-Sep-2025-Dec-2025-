@@ -1,4 +1,3 @@
-# FALL2025 (Sep-2025-Dec2025)
 # -----semester 1 relevant courses include: ------
 #
 # Construction Practices - Instructor: Mary Spencer
